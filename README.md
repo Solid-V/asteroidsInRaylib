@@ -9,3 +9,6 @@ build it with\
 g++ main.cpp asteroid.cpp projectice.cpp player.cpp -o main -I./include -L./lib -lraylib -lopengl32 -lgdi32 -lwinmm -std=c++17
 
 yes i have not made a cmake file :)))
+
+![screenshot1](images/screenshot1.JPG)\
+![screenshot2](images/screenshot2.JPG)
